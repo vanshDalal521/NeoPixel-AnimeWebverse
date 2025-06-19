@@ -1,3 +1,4 @@
+
 🚀 NeoPixel | Anime Fusion Webverse 🌌
 
 Welcome to **NeoPixel**, a multi-page web experience built for the Frontend Battle Hackathon 🥷.  
@@ -5,8 +6,8 @@ Fusing anime aesthetics, smooth animations, and modern UI trends into a clean, d
 
 ---
 
-🌟 Live Demo
-🔗 [https://neopixel.netlify.app](https://neopixel.netlify.app)
+🌟 Live Demo  
+🔗 [https://neopixel-animewebverse.netlify.app](https://neopixel-animewebverse.netlify.app)
 
 ---
 
@@ -32,7 +33,8 @@ Fusing anime aesthetics, smooth animations, and modern UI trends into a clean, d
 ---
 
 🧩 Folder Structure
-\`\`\`
+```
+```
 NeoPixel/
 ├── assets/
 │   ├── logo.png
@@ -42,18 +44,20 @@ NeoPixel/
 ├── style.css
 ├── script.js
 └── README.md
-\`\`\`
+```
 
 ---
 
-💻 How to Run
-\`\`\`bash
+How to Run
+```bash
+```
 git clone https://github.com/vanshDalal521/NeoPixel-AnimeWebverse.git
 cd NeoPixel-AnimeWebverse
 Open index.html in your browser
+```
 
 ---
-
+```
 🤖 AI Tools Used
 - ChatGPT (structure, content, and logic)
 - DALL·E (anime character illustrations, logos)
